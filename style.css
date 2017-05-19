@@ -1,0 +1,53 @@
+/*font-family
+
+font-size
+
+font-weight
+
+line-height
+*/
+
+body {
+	font-family: 'Slabo 27px', serif;
+	font-size: 1em;
+	font-weight: normal;
+	line-height: 1.4em;
+	display: block;
+	width: 760px;
+
+	}
+
+h1 {
+	font-family: 'Slabo 27px', serif;
+	font-family: 'Barrio', cursive;
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 30px;
+	letter-spacing: 2px;
+	}
+	
+h3 {
+	font-size: 1em;
+	font-weight: bold;
+	line-height: 30px;
+	}
+	
+a {
+	text-decoration: none;
+	}
+	
+a:hover{
+	color: blue;
+	}
+	
+a:active{
+	color: red;
+	}
+
+a:focus{
+	color: darkgreen;
+	}
+	
+a:visited{
+	color: pink;
+	}
